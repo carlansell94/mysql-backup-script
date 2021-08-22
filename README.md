@@ -1,4 +1,4 @@
-# Mysql Backup Scrit
+# Mysql Backup Script
 A simple shell script, to create bzipped backups of mysql/mariadb databases.
 
 Only backups with changes are retained, to save space.
